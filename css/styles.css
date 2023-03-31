@@ -39,6 +39,7 @@ body{
         font-size: 20px;
         line-height: 1.2;
         color: var(--main-text-color);
+        letter-spacing: 0.02em;
 }
 .btn {
     cursor: pointer;
@@ -196,7 +197,7 @@ body{
     color: var(--white-color);
     background-color: var(--hover-color);
 }
-.porjects-title-banking{
+.porjects-title-portfolio{
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
